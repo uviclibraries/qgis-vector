@@ -12,4 +12,8 @@ This workshop is primarily hands-on with **QGIS** in order to learn to use key f
 
 **The use of a mouse with a scroll wheel and a secondary monitor is highly recommended.**
 
+If desired, view [Introduction to *QGIS* Interface](https://www.youtube.com/watch?v=V0xYGa4MDEw) prior to the workshop.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V0xYGa4MDEw?si=N67DQmNILMTAmHUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
