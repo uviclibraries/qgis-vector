@@ -11,6 +11,6 @@ Please review the following <a href="images/IntroductiontoVector_QGIS_Introducto
 </a>
 
 
-[Download](images/IntrotoVector_QGIS_Data.zip){:target="_blank"} workshop data and PDF version of exercise instructions
+[Download](images/IntrotoVector_QGIS_Data.zip){:target="_blank"} workshop data
 
 [NEXT STEP: Workshop Exercise](Activity1.html){: .btn .btn-blue }
