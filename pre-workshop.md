@@ -10,7 +10,10 @@ This workshop is primarily hands-on with **QGIS** in order to learn to use key f
 [**Download QGIS**](https://www.qgis.org/en/site/forusers/download.html){:target="_blank"} 3.40 Prizren Long Term Release-LTR
 (Note: If you are a staff member at UVic and are wanting to install software on a work computer, you may require system admin permission to do so.)
 
-**The use of a mouse with a scroll wheel and a secondary monitor is highly recommended.**
+**It is highly recommended to:**
+- **Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)**
+- **Use a second monitor or print out the workshop activities**
+- **Use mouse with a scroll wheel**
 
 If desired, view [Introduction to *QGIS* Interface](https://www.youtube.com/watch?v=V0xYGa4MDEw) prior to the workshop.
 
