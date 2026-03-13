@@ -8,7 +8,7 @@ title: Land acknowledgement
 We acknowledge the Indigenous lands where we are located.    
 
 We acknowledge and respect the Lək̓ʷəŋən (Songhees and Xʷsepsəm/Esquimalt) Peoples on whose territory the university stands, and the Lək̓ʷəŋən and W̱SÁNEĆ Peoples whose historical relationships with the land continue to this day.
-<img src="Slide3_territorialack.png">
+<img src="images/TerritorialAckmap.png">
 
 Visit [native-land.ca](https://native-land.ca/) to explore the Indigenous territories, languages, and treaties in your area.
 
