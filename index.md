@@ -5,10 +5,10 @@ nav_order: 1
 ---
 <img src="qgis_logolonger.png" style="float:right;width:180px;">
 
-# Introduction to Vector with *QGIS*
+# Introduction to *QGIS* with Vector Data
 
 - Pre-workshop activities: 5 min 
-- Introductory presentation: 30 min
+- Introductory presentation: 20-30 min
 - Hands-on activities: 60 min
 
 ## Why QGIS? 
