@@ -17,7 +17,6 @@ nav_order: 1
 
 ## This Workshop
 **It is highly recommended to:**
-- **Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)**
 - **Use a second monitor or print out the workshop activities**
 - **Use mouse with a scroll wheel**
 
