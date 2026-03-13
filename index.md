@@ -20,7 +20,7 @@ nav_order: 1
 - **Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)**
 - **Use a second monitor or print out the workshop activities**
 - **Use mouse with a scroll wheel**
-- 
+
 This introductory workshop will cover basic concepts in GIS and QGIS, and will include exercises on utilising vector data, adding styles and labels, filtering, and making a map. This workshop is designed to help students who are new to QGIS to understand and utilize some of the main features.
 
 ### Note
@@ -30,7 +30,7 @@ and/or
 - conduct spatial analysis
 
 *QGIS* has hundreds of tools and possiblites...
-This workshop is an **Introduction** to *QGIS* with editing vector data
+This workshop is an **Introduction** to *QGIS* with vector data
 
 ## Learning objectives
 1. Distinguish between GIS and other web map interfaces
