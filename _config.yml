@@ -1,7 +1,7 @@
 title: Intro to QGIS with Vector Data
 remote_theme: just-the-docs/just-the-docs
 
-# Footer "Edit this page on GitHub" link text 
+# Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/qgis-vector" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
