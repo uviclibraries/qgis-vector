@@ -28,7 +28,7 @@ With *QGIS* someone could:
 and/or
 - conduct spatial analysis
 
-*QGIS* has hundreds of tools and possiblites...
+*QGIS* has hundreds of tools & possiblites...
 This workshop is an **Introduction** to *QGIS* with vector data
 
 ## Learning objectives
