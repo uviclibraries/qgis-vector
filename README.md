@@ -1,4 +1,4 @@
-# Make a Map with QGIS Map Layout
+# Introduction to QGIS with Vector Data
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/qgis-vector/
